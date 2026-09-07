@@ -20,7 +20,7 @@ Supabase underneath. The kind of software that has to still work at 9pm on a Fri
   </tr>
   <tr>
     <td width="50%"><a href="https://www.vizemakinesi.com"><img src="./card-vize.svg" width="480" alt="Vize Makinesi — visa consulting platform" /></a></td>
-    <td width="50%"><img src="./card-four.svg" width="480" alt="four — personal uptime system" /></td>
+    <td width="50%"><a href="https://apps.apple.com/ca/app/four-4/id6796259740"><img src="./card-four.svg" width="480" alt="four — personal uptime system" /></a></td>
   </tr>
 </table>
 
