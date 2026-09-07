@@ -11,12 +11,6 @@ Supabase underneath. The kind of software that has to still work at 9pm on a Fri
 
 <br />
 
-<div align="center">
-  <img src="./stats.svg" width="1000" alt="4 products shipped · 3 platforms · bilingual EN/AR · TypeScript" />
-</div>
-
-<br />
-
 ## Selected work
 
 <table>
