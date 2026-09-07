@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="1000" alt="Sait Taydin — Co-founder, Kagu Software" />
+  <img src="./banner.svg" width="1000" alt="Sait Taydin — Co-founder, Kagu Software" />
 </div>
 
 <br />
@@ -12,7 +12,7 @@ Supabase underneath. The kind of software that has to still work at 9pm on a Fri
 <br />
 
 <div align="center">
-  <img src="./assets/stats.svg" width="1000" alt="4 products shipped · 3 platforms · bilingual EN/AR · TypeScript" />
+  <img src="./stats.svg" width="1000" alt="4 products shipped · 3 platforms · bilingual EN/AR · TypeScript" />
 </div>
 
 <br />
@@ -21,12 +21,12 @@ Supabase underneath. The kind of software that has to still work at 9pm on a Fri
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/card-touchpadel.svg" width="480" alt="Touch Padel — venue system" /></td>
-    <td width="50%"><img src="./assets/card-operator.svg" width="480" alt="Operator Shell — offline-first desktop till" /></td>
+    <td width="50%"><img src="./card-touchpadel.svg" width="480" alt="Touch Padel — venue system" /></td>
+    <td width="50%"><img src="./card-operator.svg" width="480" alt="Operator Shell — offline-first desktop till" /></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/card-eduways.svg" width="480" alt="Eduways — web platform" /></td>
-    <td width="50%"><img src="./assets/card-uptime.svg" width="480" alt="Uptime — React Native app" /></td>
+    <td width="50%"><img src="./card-eduways.svg" width="480" alt="Eduways — web platform" /></td>
+    <td width="50%"><img src="./card-uptime.svg" width="480" alt="Uptime — React Native app" /></td>
   </tr>
 </table>
 
