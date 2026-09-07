@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" width="1200" alt="Sait Aydin — Senior Associate, Kagu Software" />
+  <a href="https://kagusoftware.com"><img src="./banner.svg" width="1200" alt="Sait Aydin — Senior Associate, Kagu Software" /></a>
 </div>
 
 <br />
@@ -15,12 +15,12 @@ Supabase underneath. The kind of software that has to still work at 9pm on a Fri
 
 <table>
   <tr>
-    <td width="50%"><img src="./card-touchpadel.svg" width="480" alt="Touch Padel — venue system" /></td>
-    <td width="50%"><img src="./card-operator.svg" width="480" alt="Operator Shell — offline-first desktop till" /></td>
+    <td width="50%"><a href="https://upperdeckk.com"><img src="./card-upperdeck.svg" width="480" alt="Upperdeck — phone-first diner menu and ordering" /></a></td>
+    <td width="50%"><a href="https://sabrinaturizm.com"><img src="./card-sabrina.svg" width="480" alt="Sabrina Turizm — private tours across Türkiye" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./card-eduways.svg" width="480" alt="Eduways — web platform" /></td>
-    <td width="50%"><img src="./card-uptime.svg" width="480" alt="Uptime — React Native app" /></td>
+    <td width="50%"><a href="https://www.vizemakinesi.com"><img src="./card-vize.svg" width="480" alt="Vize Makinesi — visa consulting platform" /></a></td>
+    <td width="50%"><img src="./card-four.svg" width="480" alt="four — personal uptime system" /></td>
   </tr>
 </table>
 

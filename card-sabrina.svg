@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="Sabrina Turizm — Private tours across Türkiye. CMS-backed">
+  <defs>
+    <clipPath id="cgc"><rect width="480" height="200" rx="12"/></clipPath>
+    <style>.s{font-family:ui-sans-serif,-apple-system,"Segoe UI",Inter,Helvetica,Arial,sans-serif}</style>
+  </defs>
+  <g clip-path="url(#cgc)">
+    <rect width="480" height="200" fill="#0a0a0a"/>
+    <rect x="0" y="0" width="3" height="200" fill="#ff7600"/>
+    <g transform="translate(386 26)">
+      <rect width="64" height="64" rx="14" fill="#141110"/>
+      <g transform="translate(8 8) scale(2.0)" fill="#f5ede0" stroke="#8a6529" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
+        <g transform="rotate(45 12 12)"><path d="M17.8 19.2 16 11l3.5-3.5C21 6 21.5 4 21 3c-1-.5-3 0-4.5 1.5L13 8 4.8 6.2c-.5-.1-.9.1-1.1.5l-.3.5c-.2.5-.1 1 .3 1.3L9 12l-2 3H4l-1 1 3 2 2 3 1-1v-3l3-2 3.5 5.3c.3.4.8.5 1.3.3l.5-.2c.4-.3.6-.7.5-1.2z"/></g>
+      </g>
+    </g>
+    <g transform="translate(430 168) scale(0.042) translate(-630 -600)" fill="none" stroke="#ff7600" stroke-opacity=".7" stroke-width="20" stroke-linejoin="round">
+      <path d="M620 670 H800 L975 830 H830 Q790 830 765 805 L620 670 Z"/>
+      <polygon points="225,505 450,505 660,710 440,710"/>
+      <polygon points="225,505 130,610 330,610"/>
+      <path d="M860 370 H1130 L765 710 H465 L800 395 Q825 370 860 370 Z"/>
+    </g>
+    <g class="s">
+      <text x="30" y="46" font-size="11.5" fill="#ff7600" font-weight="700" letter-spacing=".14em">TOURISM</text>
+      <text x="30" y="82" font-size="25" font-weight="700" fill="#ffffff" letter-spacing="-.3">Sabrina Turizm</text>
+      <text x="30" y="110" font-size="14" fill="#9a9a9a">Private tours across Türkiye. CMS-backed</text>
+      <text x="30" y="136" font-size="14" fill="#9a9a9a">catalogue, ten languages, nine currencies.</text>
+      <text x="30" y="176" font-size="12.5" fill="#6b6b6b" letter-spacing=".03em">Next.js 16 · Tailwind v4 · Supabase</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="478.5" height="198.5" rx="12" fill="none" stroke="#2a1a0c" stroke-width="1.5"/>
+</svg>

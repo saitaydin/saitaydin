@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="200" viewBox="0 0 480 200" role="img" aria-label="four — One score: did the system stay up">
+  <defs>
+    <clipPath id="cga"><rect width="480" height="200" rx="12"/></clipPath>
+    <style>.s{font-family:ui-sans-serif,-apple-system,"Segoe UI",Inter,Helvetica,Arial,sans-serif}</style>
+  </defs>
+  <g clip-path="url(#cga)">
+    <rect width="480" height="200" fill="#0a0a0a"/>
+    <rect x="0" y="0" width="3" height="200" fill="#ff7600"/>
+    <g transform="translate(386 26)">
+      <rect width="64" height="64" rx="14" fill="#12161a"/>
+      <g transform="scale(0.25)"><path fill="#eceff1" fill-opacity=".95" d="M68.8 120.5 L68.8 39.5 L119.2 39.5 L119.2 52.4 L82.4 52.4 L82.4 74 L116.3 74 L116.3 86.9 L82.6 86.9 L82.6 120.5 ZM160.6 121.6 C155.5 121.6 151 120.6 147.2 118.7 C143.4 116.7 140.4 113.9 138.4 110.4 C136.4 106.8 135.4 102.5 135.4 97.7 L135.4 62.4 C135.4 57.5 136.4 53.3 138.4 49.7 C140.4 46.1 143.4 43.3 147.2 41.3 C151 39.4 155.5 38.4 160.6 38.4 C165.9 38.4 170.4 39.4 174.2 41.3 C178 43.3 180.9 46.1 182.9 49.7 C184.9 53.3 185.9 57.4 185.9 62.3 L185.9 97.7 C185.9 102.5 184.9 106.8 182.9 110.4 C180.9 113.9 178 116.7 174.2 118.7 C170.4 120.6 165.9 121.6 160.6 121.6 ZM160.6 109.4 C164.4 109.4 167.3 108.4 169.2 106.4 C171.1 104.3 172.1 101.4 172.1 97.7 L172.1 62.4 C172.1 58.5 171.1 55.6 169.2 53.6 C167.3 51.6 164.4 50.6 160.6 50.6 C156.9 50.6 154 51.6 152.1 53.6 C150.2 55.6 149.2 58.5 149.2 62.4 L149.2 97.7 C149.2 101.4 150.2 104.3 152.2 106.4 C154.1 108.4 157 109.4 160.6 109.4 ZM94 217.6 C86 217.6 79.9 215.4 75.4 211.1 C70.9 206.8 68.7 200.9 68.7 193.4 L68.7 135.5 L82.6 135.5 L82.6 193.3 C82.6 197.1 83.6 200.1 85.5 202.3 C87.5 204.4 90.3 205.5 94 205.5 C97.6 205.5 100.4 204.4 102.3 202.3 C104.3 200.1 105.3 197.1 105.3 193.3 L105.3 135.5 L119.3 135.5 L119.3 193.4 C119.3 200.9 117 206.8 112.6 211.1 C108.2 215.4 102 217.6 94 217.6 ZM134 217 L134 136 L159.6 136 C165 136 169.7 137 173.6 139 C177.6 141 180.7 143.8 182.9 147.4 C185.1 151 186.2 155.2 186.2 160.1 C186.2 165.4 184.9 170.1 182.2 174.2 C179.5 178.3 175.8 181.2 171.2 182.9 L187.3 217 L171.8 217 L157.7 184.9 L147.8 184.9 L147.8 217 ZM147.8 172.7 L159.6 172.7 C163.5 172.7 166.6 171.6 168.8 169.4 C171 167.3 172.1 164.3 172.1 160.6 C172.1 156.7 171 153.7 168.8 151.5 C166.6 149.3 163.5 148.3 159.6 148.3 L147.8 148.3 Z"/></g>
+    </g>
+    <g transform="translate(430 168) scale(0.042) translate(-630 -600)" fill="none" stroke="#ff7600" stroke-opacity=".7" stroke-width="20" stroke-linejoin="round">
+      <path d="M620 670 H800 L975 830 H830 Q790 830 765 805 L620 670 Z"/>
+      <polygon points="225,505 450,505 660,710 440,710"/>
+      <polygon points="225,505 130,610 330,610"/>
+      <path d="M860 370 H1130 L765 710 H465 L800 395 Q825 370 860 370 Z"/>
+    </g>
+    <g class="s">
+      <text x="30" y="46" font-size="11.5" fill="#ff7600" font-weight="700" letter-spacing=".14em">PERSONAL SYSTEM</text>
+      <text x="30" y="82" font-size="25" font-weight="700" fill="#ffffff" letter-spacing="-.3">four</text>
+      <text x="30" y="110" font-size="14" fill="#9a9a9a">One score: did the system stay up</text>
+      <text x="30" y="136" font-size="14" fill="#9a9a9a">today. Catches the fade early.</text>
+      <text x="30" y="176" font-size="12.5" fill="#6b6b6b" letter-spacing=".03em">Expo · React Native · Supabase</text>
+    </g>
+  </g>
+  <rect x=".75" y=".75" width="478.5" height="198.5" rx="12" fill="none" stroke="#2a1a0c" stroke-width="1.5"/>
+</svg>
