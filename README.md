@@ -30,15 +30,15 @@ More of what we build at [github.com/KaguSoftware](https://github.com/KaguSoftwa
 
 ## How I build
 
-**Web** — Next.js (App Router), React 19, TypeScript, Tailwind, Vite for the operator SPA
+**Web**: Next.js (App Router), React 19, TypeScript, Tailwind, Vite for the operator SPA
 
-**Mobile** — Expo, React Native, shipped to iOS and Android
+**Mobile**: Expo, React Native, shipped to iOS and Android
 
-**Desktop** — Electron, better-sqlite3, ESC/POS thermal printing, LAN kitchen display
+**Desktop**: Electron, better-sqlite3, ESC/POS thermal printing, LAN kitchen display
 
-**Backend** — Supabase, Postgres, row-level security, one database behind every surface
+**Backend**: Supabase, Postgres, row-level security, one database behind every surface
 
-**Ship** — Vercel, GitHub, pnpm workspaces and Turborepo, Playwright before release
+**Ship**: Vercel, GitHub, pnpm workspaces and Turborepo, Playwright before release
 
 <br />
 
@@ -47,6 +47,6 @@ More of what we build at [github.com/KaguSoftware](https://github.com/KaguSoftwa
 Building operator software out of Istanbul at Kagu Software, alongside
 [@ParSaMnSS](https://github.com/ParSaMnSS).
 
-If you run a venue and your software fights you — I'd like to hear about it.
+If you run a venue and your software fights you , I'd like to hear about it.
 
 <sub>Istanbul · UTC+3 · every graphic on this page is hand-written SVG.</sub>
