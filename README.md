@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./banner.svg" width="1000" alt="Sait Taydin — Co-founder, Kagu Software" />
+  <img src="./banner.svg" width="1200" alt="Sait Aydin — Senior Associate, Kagu Software" />
 </div>
 
 <br />
 
-I'm a co-founder of **Kagu Software**, an Istanbul-based studio building operator software
+I'm a senior associate at **Kagu Software**, an Istanbul-based studio building operator software
 for small businesses — booking systems, tills, kitchen displays, stock and back-office.
 Mostly TypeScript: Next.js and React on the web, Expo on mobile, Electron on the counter,
 Supabase underneath. The kind of software that has to still work at 9pm on a Friday.
@@ -53,8 +53,8 @@ feature, not an edge case. Money as integer minor units, never floats.
 
 ## Let's talk
 
-Building operator software out of Istanbul, with [@ParSaMnSS](https://github.com/ParSaMnSS)
-at Kagu Software.
+Building operator software out of Istanbul at Kagu Software, alongside
+[@ParSaMnSS](https://github.com/ParSaMnSS).
 
 If you run a venue and your software fights you — I'd like to hear about it.
 
