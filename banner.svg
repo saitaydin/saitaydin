@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Sait Taydin — Co-founder, Kagu Software">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff7600"/><stop offset="100%" stop-color="#ff9e3d"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff7600" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#ff7600" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="c"><rect width="1000" height="200" rx="14"/></clipPath>
+    <style>.s{font-family:ui-sans-serif,-apple-system,"Segoe UI",Inter,Helvetica,Arial,sans-serif}</style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1000" height="200" fill="#000000"/>
+    <circle cx="880" cy="40" r="150" fill="#ff7600" opacity=".07"/>
+    <circle cx="960" cy="170" r="110" fill="#ff7600" opacity=".05"/>
+    <rect x="60" y="66" width="4" height="68" rx="2" fill="url(#acc)"/>
+    <text class="s" x="86" y="98" font-size="34" font-weight="700" fill="#ffffff" letter-spacing="-.5">Sait Taydin</text>
+    <text class="s" x="86" y="128" font-size="17" fill="#ff7600" font-weight="600">Co-founder, Kagu Software</text>
+    <text class="s" x="86" y="156" font-size="14.5" fill="#8a8a8a">Operator software for small businesses · Istanbul</text>
+    <rect x="0" y="197" width="1000" height="3" fill="url(#fade)"/>
+  </g>
+</svg>
