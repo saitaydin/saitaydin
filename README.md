@@ -40,9 +40,6 @@ More of what we build at [github.com/KaguSoftware](https://github.com/KaguSoftwa
 
 **Ship** — Vercel, GitHub, pnpm workspaces and Turborepo, Playwright before release
 
-**Around the code** — Bilingual EN/AR with full RTL from day one. Offline treated as a
-feature, not an edge case. Money as integer minor units, never floats.
-
 <br />
 
 ## Let's talk
