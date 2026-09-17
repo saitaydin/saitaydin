@@ -44,8 +44,7 @@ More of what we build at [github.com/KaguSoftware](https://github.com/KaguSoftwa
 
 ## Let's talk
 
-Building operator software out of Istanbul at Kagu Software, alongside
-[@ParSaMnSS](https://github.com/ParSaMnSS).
+Building operator software out of Istanbul at Kagu Software.
 
 If you run a venue and your software fights you , I'd like to hear about it.
 
